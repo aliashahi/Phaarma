@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1599676876612,
+  "timestamp": 1599818596832,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/4.5f000f44296c2f9e5a79.js",
+        "/4.4fe3a6b4bd1ba7e7ddfa.js",
         "/favicon.ico",
         "/index.html",
-        "/main.9e66138e792ae00bad5f.js",
+        "/main.327cfd5139bae734b3fc.js",
         "/manifest.webmanifest",
         "/polyfills.a4021de53358bb0fec14.js",
-        "/runtime.139793165c7985917dc6.js",
+        "/runtime.4fbea75186a87db9cf45.js",
         "/styles.e8fffac43904fa235480.css"
       ],
       "patterns": []
@@ -30,7 +30,6 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/defaultIcon.png",
         "/assets/fonts/msuighub.ttf",
         "/assets/fonts/msuighur.ttf",
         "/assets/icons/icon-128x128.png",
@@ -40,31 +39,36 @@
         "/assets/icons/icon-384x384.png",
         "/assets/icons/icon-512x512.png",
         "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "/assets/icons/icon-96x96.png",
+        "/assets/img/phaarmaicon-horizental.png",
+        "/assets/img/phaarmaicon-textless.png",
+        "/assets/img/phaarmaicon.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/4.5f000f44296c2f9e5a79.js": "ef6ecd1001300627cca3d584cc7e39e5738f7af1",
-    "/assets/defaultIcon.png": "b97d55bf5f65f9f8f28d02a527ed88a5feda6725",
+    "/4.4fe3a6b4bd1ba7e7ddfa.js": "1fb7a33cd1021857536f24a95bdd504e19b6cda6",
     "/assets/fonts/msuighub.ttf": "cc8d631452580680e3795964fec81270ccd45d9c",
     "/assets/fonts/msuighur.ttf": "6618b004395c7e11f92d2cdf505f04e7d5713029",
-    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/icons/icon-128x128.png": "f02c97a2958d2f8506556d489b30a117a6a9d841",
+    "/assets/icons/icon-144x144.png": "f02c97a2958d2f8506556d489b30a117a6a9d841",
+    "/assets/icons/icon-152x152.png": "f02c97a2958d2f8506556d489b30a117a6a9d841",
+    "/assets/icons/icon-192x192.png": "f02c97a2958d2f8506556d489b30a117a6a9d841",
+    "/assets/icons/icon-384x384.png": "f02c97a2958d2f8506556d489b30a117a6a9d841",
+    "/assets/icons/icon-512x512.png": "f02c97a2958d2f8506556d489b30a117a6a9d841",
+    "/assets/icons/icon-72x72.png": "f02c97a2958d2f8506556d489b30a117a6a9d841",
+    "/assets/icons/icon-96x96.png": "f02c97a2958d2f8506556d489b30a117a6a9d841",
+    "/assets/img/phaarmaicon-horizental.png": "a74619fd5c4cf9ce318e3187f05ddadd49580726",
+    "/assets/img/phaarmaicon-textless.png": "48d58db0f1c440ebcd1cae2533c0638921c6f1c5",
+    "/assets/img/phaarmaicon.png": "37ab6e0517be0133a997a15725012fef99ce6ef5",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "cfdbbda184bd84f2c02e8ebcd77c2e8fd8acf6de",
-    "/main.9e66138e792ae00bad5f.js": "2ef87490438839f66f9b89c01e6fb4c9f71acc11",
-    "/manifest.webmanifest": "23c11b09211cc08e0febd0b6013f7589ac47f816",
+    "/index.html": "235df0e00254427f5d742c434b7190fffe68808f",
+    "/main.327cfd5139bae734b3fc.js": "40a782f51802ffdf078598e84d1306d6952899a7",
+    "/manifest.webmanifest": "dd305b51b0b94d2d8a1c927becf6633c587cae0a",
     "/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
-    "/runtime.139793165c7985917dc6.js": "c667cf2ebb129b720b36d9fcb2be178babd4aa4e",
+    "/runtime.4fbea75186a87db9cf45.js": "6ceed20caf3fb30bea116e71e661c7a89096ef3e",
     "/styles.e8fffac43904fa235480.css": "9aa2ef23cb3bd0d78e3be26d29f7cd302c195607"
   },
   "navigationUrls": [

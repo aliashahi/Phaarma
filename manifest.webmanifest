@@ -1,7 +1,7 @@
 {
-  "name": "PharmaProject",
-  "short_name": "PharmaProject",
-  "theme_color": "#1976d2",
+  "name": "Phaarma",
+  "short_name": "PHAARMA",
+  "theme_color": "#ff4081",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "./",
